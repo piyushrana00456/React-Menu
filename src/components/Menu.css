@@ -1,0 +1,43 @@
+.wrap{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+button{
+    width:200px;
+    height:50px;
+    border-radius: 50px;
+    margin: 15px;
+    font-size:20px;
+    border: none;
+    color:white;
+}
+.Join button,.JOIN{
+    background-color:#1ba7d0;
+}
+
+.Setting button ,.SETTING{
+    background-color:rgb(110,164,180);
+}
+.Login button, .LOGIN{
+    background-color:rgb(248,149,34);
+}
+
+.Contact button,.CONTACT{
+    background-color:rgb(177,50,56);
+}
+.Search button ,.SEARCH{
+    background-color:rgb(129,179,63);
+}
+.Help button,.HELP{
+    background-color:rgb(91,88,152);
+}
+.Home button,.HOME{
+    background-color:rgb(211,62,121);
+}
+.Download button,.DOWNLOADS{
+    background-color:rgb(155,122,60);
+}
+
